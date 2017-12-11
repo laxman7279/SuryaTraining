@@ -7,4 +7,3 @@ Hello, this is Laxman.
 Adding from repository
 
 
-This is for testing revert changes.
